@@ -23,6 +23,7 @@ check if everything was downloaded properly throught this command:
 ![9c47044e-4065-4a8b-86aa-88b6aa202c27](https://user-images.githubusercontent.com/125801855/220119812-6834126f-6c8c-4508-a8f2-1440f82a9897.jpg)
 ### Step 5:Setup a Testnet Account and get testnet CCD
 - First Download the COncordium walllet extension from google chrome webstore
+
 ![02217caa-ed4b-42ba-b19a-2f55eb5f4df1](https://user-images.githubusercontent.com/125801855/220121213-4022658d-b290-4f62-8646-358ec4856ab3.jpg)
 -Create and claim CCD from the in-wallet faucet
 ![6ceff7b0-edb2-4a4a-9579-ca877013950a](https://user-images.githubusercontent.com/125801855/220121417-12a23bd4-194f-4539-80c0-343f51a8ebf1.jpg)
@@ -30,4 +31,4 @@ check if everything was downloaded properly throught this command:
 - '''/home/amog/Downloads/amogshard/concordium-client config account import /home/amog/Downloads/amogshard/4PScWz3JrKp5naRZxax5xRHD5QxJPGb333ACiDaweApxn17aDR.export --name Gravy-Alpaca
 '''
 ![aff96ac8-112d-4dbc-9df1-1f8467f17e96](https://user-images.githubusercontent.com/125801855/220123331-832e6817-d9de-4d23-b18b-fa8c7a688b91.jpg)
-#That's it!!!
+# That's it!!!
