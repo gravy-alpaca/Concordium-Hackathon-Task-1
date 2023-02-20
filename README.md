@@ -1,4 +1,5 @@
 # Concordium Hackathon
+# Mainnet address: 4dZSRqrkgndiGCGFHN996Ab62RhkXS2QUDixpaJkjjhGVLwLsA
 ## Task 1: Setup Development Environment
 *Done By gravy-alpaca*
 ### Step 1: Installing Rust 
