@@ -3,7 +3,7 @@
 *Done By gravy-alpaca*
 ### Step 1: Installing Rust 
 I installed rust using the following command:
-'''curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh'''
+''' curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh '''
 ![94fb9f7b-4f92-4b04-afb0-d1ab5fe96415](https://user-images.githubusercontent.com/125801855/220115784-2b137c1f-e219-433c-be2e-9fe47196b033.jpg)
 ### Step 2: install wasm32-unknown-unknown target by using this command
 '''rustup target add wasm32-unknown-unknown'''
