@@ -28,7 +28,6 @@ check if everything was downloaded properly throught this command:
 -Create and claim CCD from the in-wallet faucet
 ![6ceff7b0-edb2-4a4a-9579-ca877013950a](https://user-images.githubusercontent.com/125801855/220121417-12a23bd4-194f-4539-80c0-343f51a8ebf1.jpg)
 ### Step 6: Export Wallet keys and import them into the Concordium Client
-- ```home/amog/Downloads/amogshard/concordium-client config account import /home/amog/Downloads/amogshard/4PScWz3JrKp5naRZxax5xRHD5QxJPGb333ACiDaweApxn17aDR.export --name Gravy-Alpaca
-```
+- ```home/amog/Downloads/amogshard/concordium-client config account import /home/amog/Downloads/amogshard/4PScWz3JrKp5naRZxax5xRHD5QxJPGb333ACiDaweApxn17aDR.export --name Gravy-Alpaca ```
 ![aff96ac8-112d-4dbc-9df1-1f8467f17e96](https://user-images.githubusercontent.com/125801855/220123331-832e6817-d9de-4d23-b18b-fa8c7a688b91.jpg)
 # That's it!!!
